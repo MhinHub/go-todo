@@ -1,0 +1,21 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.background": "#141414",
+        "terminal.ansiGreen": "#202a24",
+        "terminal.ansiYellow": "#79c400",
+        "terminal.ansiBlue": "#7d36b8",
+        "editorBracketHighlight.foreground1": "#00dbde",
+        "editorBracketHighlight.foreground2": "#35eb93",
+        "editorBracketHighlight.foreground3": "#fc00ff",
+        "editorBracketHighlight.foreground4": "#9EFBD3",
+        "editorBracketHighlight.foreground5": "#537afc",
+        "editorBracketHighlight.foreground6": "#66ff00",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#FC466B",
+        "[Inheritance 🐱‍👤]": {
+            "tab.activeBackground": "#05b0db22"
+        },
+        "activityBar.background": "#2C255E",
+        "titleBar.activeBackground": "#3E3484",
+        "titleBar.activeForeground": "#FAF9FD"
+    }
+}
